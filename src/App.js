@@ -3,7 +3,7 @@ import {  Route} from 'react-router-dom';
 import Navbar from './components/Navbar.js'
 import ProductList from './components/ProductList.js'
 import Footer from './components/Footer.js'
-import React, { useState } from 'react';
+import { useState } from 'react';
 import AddItem from './components/AddItem.js';
 
 import HomePage from './components/Homepage.js';
